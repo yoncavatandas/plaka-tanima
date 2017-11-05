@@ -23,4 +23,16 @@ pip3 install -r requirements-dev.txt
 
 ```
 
+### Program Kullanimi
 
+```language-bash
+
+python3 plaka_tanima.py --image <IMAGE_PATH>
+
+```
+
+
+
+### Ornek 
+
+![Example](example.png)
